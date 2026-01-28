@@ -1,5 +1,5 @@
 # Business-Analyst-Portfolio
-# Business Analyst Portfolio
+
 
 This repository contains selected business analysis projects that demonstrate my ability to analyse business processes, identify improvement opportunities, and design effective TO-BE solutions.
 
