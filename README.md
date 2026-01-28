@@ -16,4 +16,5 @@ An end-to-end BPMN 2.0 analysis and redesign of an insurance claims process, cov
 - Claim assessment, approval, payment, and post-payment compliance
 
 👉 View project folder:  
-insurance-claims-optimization
+[Insurance Claims Processing Optimization](./insurance-claims-optimization)
+
