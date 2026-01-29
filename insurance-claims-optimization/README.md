@@ -25,9 +25,8 @@ The process design is based on practical exposure to life insurance claims and f
 ---
 
 ## Artefacts
-- **BPMN Diagram:** *//claims-bpmn.png
-- **Detailed Case Study:** [`case-study.pdf`]
-
+- **BPMN Diagram:** [claims-bpmn.png](./claims-bpmn.png)
+- **Detailed Case Study:** [case-study.pdf](./case-study.pdf)
 ---
 
 ## Tools & Techniques
